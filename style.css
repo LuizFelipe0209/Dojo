@@ -1,0 +1,18 @@
+body {
+    background-color: red;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+
+.paragrafo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.p{
+    text-align: center
+}
